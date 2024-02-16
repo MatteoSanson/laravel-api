@@ -24,3 +24,16 @@ Utilizziamo questo componente per visualizzare tutti i progetti ricevuti tramite
 
 ## Bonus
 Gestire la paginazione dei risultati
+<br><br><br>
+
+# Esercizio rotte
+
+## Backend
+- rotta API per il dettaglio projects
+
+## Frontend
+- vue router
+- creazione rotte (router.js)
+- creazione pagine
+- creazione rotta parametrica e pagina di dettaglio del progetto
+- navigazione tra le pagine
